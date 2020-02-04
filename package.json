@@ -1,9 +1,9 @@
 {
-  "name": "@daanadriaan/vue-bootstrap-select",
+  "name": "@alfsnd/vue-bootstrap-select",
   "version": "0.4.5",
   "description": "A vue version of bootstrap select",
   "license": "MIT",
-  "repository": "Daanadriaan/vue-bootstrap-select",
+  "repository": "Sandalf/vue-bootstrap-select",
   "keywords": [
     "npm",
     "package",
