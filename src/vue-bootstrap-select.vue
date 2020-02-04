@@ -36,7 +36,7 @@
           class="v-dropdown-item"
           :class="{'selected' : isSelectedOption(option, index), 'disabled': option[disabledProp]}"
           @click="onSelect(option, index)"
-        >{{ getOptionLabel(option) }}</li>
+        >{{ getOptionLabel(option) }}<span class="subtitle> {{ option.subtitle }}</span></li>
       </ul>
     </div>
   </div>
